@@ -1,0 +1,61 @@
+@import "compass/css3";
+html {
+    background-image: url("../img/darkish2.jpg");
+    font-family: 'Oxygen', sans-serif;
+    
+}
+h2 { color: white;
+}
+body { 
+}
+.clear {
+    clear: none;
+}
+.column {
+    background-color: #ddd;
+    float: right;
+    padding: 0;
+    
+}
+.column1, .column2, .column3 {
+    background-color: #eee;
+    width: 300px;
+    height: 200px;
+    float: none;
+    margin: 10px;
+    
+}
+.img {
+    border-radius: 70%;
+}
+.thispic{    
+    border-radius: 50%;
+    width 300px;
+    float: right;
+    margin: auto;
+    padding-left: 10px;
+}
+aside {
+    background-color: #ddd;
+    width 200px;
+    float: right;
+    padding: 0px 0px 0px 20px;
+}
+aside linkers {
+    display: block;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
